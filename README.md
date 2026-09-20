@@ -1,1 +1,1 @@
-I created a script prewviously as a basic card game in my goal to learn python - with the push of AI i recrafted this to be a vibe coded game that renders the table and dealer to make it more enjoyable 
+I created a script previously as a basic card game in my goal to learn python - with the push of AI i recrafted this to be a vibe coded game that renders the table and dealer to make it more enjoyable 
